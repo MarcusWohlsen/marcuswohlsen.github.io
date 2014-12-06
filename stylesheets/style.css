@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://fonts.gstatic.com/s/opensans/v10/cJZKeOuBrn4kERxqtaUH3SZ2oysoEQEeKwjgmXLRnTc.ttf) format('truetype');
+}
+
+body {
+	background: lightblue;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 100%;
+}
+
+.container {
+	min-width: 855px;
+	text-align: center;
+}
+
+.container h1 {
+	max-width: 855px;
+	margin: 200px auto;
+	color: white;
+	font-size: 300%;
+}
