@@ -10,10 +10,10 @@ body {
 
 header {
 	padding: 40px 0 20px 40px;
+	display: flex;
 }
 
 h1 {
-	display: flex;
 	font-size: 36px;
 	border-bottom: solid 1px white;
 }
