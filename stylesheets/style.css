@@ -14,11 +14,26 @@ body {
 .container {
 	min-width: 855px;
 	text-align: center;
+	color: white;
 }
 
 .container h1 {
 	max-width: 855px;
 	margin: 200px auto;
-	color: white;
 	font-size: 300%;
+}
+
+
+.container h2 {
+	max-width: 855px;
+	margin: 200px auto;
+	font-size: 200%;
+}
+
+
+.container ul {
+	max-width: 855px;
+	margin: 200px auto;
+	color: white;
+	font-size: 100%;
 }
