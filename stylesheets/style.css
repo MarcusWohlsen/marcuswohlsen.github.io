@@ -1,44 +1,45 @@
 body {
-  color: white;
-  background-color: lightblue;
-  font-family: Lora;
-  font-size: 18px;
-  max-width: 640px;
-  margin: 0 auto 0 auto;
-  line-height: 1.5;
+	color: white;
+	background-color: lightblue;
+	font-family: Lora;
+	font-size: 18px;
+	max-width: 640px;
+	margin: 0 auto 0 auto;
+	line-height: 1.5;
 }
 
 header {
-  padding: 40px 0 20px 40px;
+	padding: 40px 0 20px 40px;
 }
 
 h1 {
-  font-size: 36px;
-  border-bottom: solid 1px white;
+	display: flex;
+	font-size: 36px;
+	border-bottom: solid 1px white;
 }
 
 h2 {
-  font-size: 24px;
+	font-size: 24px;
 }
 
 section {
-  padding: 20px 40px 20px 40px;
+	padding: 20px 40px 20px 40px;
 }
 
 ul {
-  list-style: disc inside;
-  padding-bottom: 20px;
+	list-style: disc inside;
+	padding-bottom: 20px;
 }
 
 a {
-  text-decoration: none;
-  color: #ff715b;
+	text-decoration: none;
+	color: #ff715b;
   }
 
 a:hover {
-  color: white;
+	color: white;
 }
 
 a:focus {
-  color: white;
+	color: white;
 }
