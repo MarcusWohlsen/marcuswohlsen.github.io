@@ -1,5 +1,5 @@
 body {
-	color: white;
+	color: #334960;
 	background-color: lightblue;
 	font-family: Lora;
 	font-size: 18px;
@@ -11,6 +11,7 @@ body {
 header {
 	padding: 40px 0 20px 40px;
 	display: block;
+	color: white;
 }
 
 h1 {
