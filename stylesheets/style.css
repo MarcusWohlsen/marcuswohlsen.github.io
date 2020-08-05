@@ -48,3 +48,7 @@ a:focus {
 p {
 	margin: 0 0 1em 0;
 }
+
+em {
+	font-style: italic;
+}
